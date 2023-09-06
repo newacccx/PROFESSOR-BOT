@@ -11,23 +11,23 @@
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "5918933862:AAFra62rdQ9HcvgKDzmQTP465y8agW9Bt8Y",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "6381607",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "9799ad1623afe9bad664501f984b71fe",
             "required": true
         },
         "CHANNELS": {
-            "description": "Username or ID of channel or group. Separate multiple IDs by space.",
+            "description": "-1001481389568 -1001540677762",
             "required": false
         },
         "ADMINS": {
-            "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "description": "1258695344",
             "required": true
         },
         "SHORT_API": {
@@ -43,11 +43,11 @@
             "required": false
         },
         "LOG_CHANNEL": {
-            "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+            "description": "-1001775402942",
             "required": true                              
         },
         "AUTH_CHANNEL": {
-            "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
+            "description": "-1001540677762",
             "required": false
         },           
         "MAX_RIST_BTNS": {
@@ -57,26 +57,26 @@
         },
         "CUSTOM_FILE_CAPTION": {
             "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
-            "value": "Hey {mention}👋\n\n{file_name}\n\n🔘 size - {file_size}\n\n╭─── • ❰ @MR_LINK_Z ❱ • ────➤\n┣ ▫️ @MRxSERIES\n┣ ▫️ @MalluMovie_Official\n╰─────── • ◆ • ───────➤",
+            "value": "Hey {mention}👋\n\n{file_name}\n\n🔘 size - {file_size}\n\n╭─── • ❰ @HDCINEMA_1 ❱ • ────➤\n┣ ▫️ @HDCINEMA_1\n┣ ▫️ @HDCINEMA_GROUP\n╰─────── • ◆ • ───────➤",
             "required": false
         },
         "DATABASE_URL": {
-            "description": "mongoDB URI.",
+            "description": "mongodb+srv://newuser:newuser@cluster0.80t5h.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
             "required": true
         },
         "DATABASE_NAME": {
             "description": "Name of the database in mongoDB.",
-            "value": "Cluster0",
+            "value": "telegram",
             "required": false
         },
         "COLLECTION_NAME": {
             "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
-            "value": "Telegram_files",
+            "value": "Telegram_Files",
             "required": false        
         },
         "SUPPORT_CHAT": {
             "description": "Updated Channel Username Without @ Not Chanel ID",
-            "value": "MKN_BOTZ_DISCUSSION_GROUP",
+            "value": "HDCINEMA_1",
             "required": false
         },
         "IMDB": {
